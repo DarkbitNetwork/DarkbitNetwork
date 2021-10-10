@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! This is my average profile
+There's nothing here, unless you want to do something
+like ehh idk, checking my publicly available repository or checking my activity.
 
 <!--
 **DarkbitNetwork/DarkbitNetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
