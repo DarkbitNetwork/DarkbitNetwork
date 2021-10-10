@@ -2,6 +2,11 @@
 There's nothing here, unless you want to do something
 like ehh idk, checking my publicly available repository or checking my activity.
 
+#### There's something important you need to tell me?
+Tell me about it in Issues tab.
+#### Why aren't you very active in Github?
+There's many reasons but mainly because I don't feel motivated at all.
+
 <!--
 **DarkbitNetwork/DarkbitNetwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
